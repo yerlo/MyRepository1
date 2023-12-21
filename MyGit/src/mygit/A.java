@@ -5,6 +5,7 @@ public class A {
 		System.out.println("this is A.java");
 		System.out.println("okat master~");
 		System.out.println("devB A.java 수정");
+		System.out.println("devC A.java 수정");
 	}
 
 }
